@@ -1,4 +1,4 @@
-# Hotel Menu
+# Paradise Menu
 
 **Live Website:** https://paradiseveg.netlify.app/
 
